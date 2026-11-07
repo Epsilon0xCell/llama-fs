@@ -1,3 +1,7 @@
+![LlamaFS banner: a woven Andean textile, on the left a tangled heap of loose threads and scattered small squares in cream and terracotta, a woven llama standing in the middle, on the right the same squares resolved into a tidy woven grid of indigo and marigold bands](banner.png)
+
+<p align="center"><img src="logo.png" alt="LlamaFS logo: a llama woven in terracotta and indigo bands on alpaca cream, standing over a neat woven grid of small squares like filed folders, inside a marigold border band" width="200"></p>
+
 # LlamaFS
 
 <img src="electron-react-app/assets/llama_fs.png" width="30%" />
